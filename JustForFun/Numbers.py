@@ -5,4 +5,4 @@ number = int(input("Enter a number?"))
 newnumber = (number + 154)
 
 # Formating to place the int into a sentence for print
-print("Let add 154 to {} and make that equal {}" .format (number,newnumber))
+print("Lets add 154 to {} and make that equal {}" .format (number,newnumber))
