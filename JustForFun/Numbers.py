@@ -1,3 +1,5 @@
+# Reading in a number, converting and adding a number.  Formatting to make them compatiable with strings.
+
 # Reading in a number as a string, converting it to a int. 
 number = int(input("Enter a number?"))
 
