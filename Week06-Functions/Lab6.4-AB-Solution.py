@@ -22,7 +22,7 @@ def readmodules():
 
     while moduleName != "":
         modules = {} #creating a dict for the modules and grades.
-        modules["Module name"] = moduleName #"name" is the uniform key. The value of that is the module name read in from user.
+        modules["Module name"] = moduleName #"Module name" is the uniform key. The value of that is the module name read in from user.
         modules["Grade"] =int(input("Enter the grade: ")) #grade is the key.  value of grade read in from the user.
         module.append(modules) #appending the "modules" dict to the module list above.  To be added to "student" below.
         moduleName = input("Enter another module (leave blank to quit): ").strip() #looping and reading in another module until input is blank. 
