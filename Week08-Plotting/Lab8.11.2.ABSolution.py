@@ -1,3 +1,7 @@
+# A program that will list counties and use probability function to output theres possible frequency. 
+# Author: Ryan Cox
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 # make the array of occurences

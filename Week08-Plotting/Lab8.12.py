@@ -1,3 +1,6 @@
+# A program that will count the frequency of an object within an array and return a bar plot. 
+# Author: Ryan Cox
+
 import numpy as np
 import matplotlib.pyplot as plt
 # make the array of occurences

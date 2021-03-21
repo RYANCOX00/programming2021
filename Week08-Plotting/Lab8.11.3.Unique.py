@@ -1,3 +1,7 @@
+# A program that will count the frequency of an object within an array and return a pie plot. 
+# Author: Ryan Cox
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 

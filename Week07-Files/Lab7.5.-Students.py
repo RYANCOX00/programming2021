@@ -4,7 +4,7 @@
 
 import json
 records = []
-file ="studentReocrds.json"
+file ="studentRecords.json"
 
 
 # FUNCTIONS
